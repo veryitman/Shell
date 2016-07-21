@@ -12,3 +12,6 @@
 ## svn_ci_libFile
 * 将 .o .a 等文件提交到 svn.
 
+## check_ip
+* 检查本机 ip 地址
+
