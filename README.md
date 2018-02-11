@@ -1,17 +1,34 @@
-# Shell
-* 工作中常用的 shell.
+# Shell Tool
 
-## pull_git.sh
+工作中常用的 shell.
+
+>pull_git.sh
+
 * 更新所有 git clone 下来的代码.
 * 用法
-	* ./pull_git [path] 
 
-## update_git
+```
+pull_git [path] 
+```
+
+>update_git
+
 * 更新指定目录下面git clone 的代码.
 
-## svn_ci_libFile
-* 将 .o .a 等文件提交到 svn.
+>svn_ci_libFile
 
-## check_ip
+* 将 .o .a .so 等库文件提交到 svn.
+
+>check_ip
+
 * 检查本机 ip 地址
+
+>open_mac_dir
+
+* 打开常用的 mac 目录
+
+>which_xcpretty
+
+* 是否安装 xcpretty
+
 
